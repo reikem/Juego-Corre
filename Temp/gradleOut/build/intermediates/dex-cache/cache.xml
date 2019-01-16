@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\solita\.gradle\caches\transforms-1\files-1.1\UnityChannel.aar\2f7cebd9fb0e59342ebabb30f5d124f0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="28.0.3"
+        sha1="317fb7a96cd4116570d9e4609e3345befcf1153d">
+        <dex dex="C:\Users\solita\Desktop\Examen VJ\CorreCorre\Temp\gradleOut\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solita\Desktop\Examen VJ\CorreCorre\Temp\gradleOut\libs\unity-classes.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="28.0.3"
+        sha1="0cf7f5e0fb70f5c0957bc00a0e98cf5761b36a67">
+        <dex dex="C:\Users\solita\Desktop\Examen VJ\CorreCorre\Temp\gradleOut\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\solita\.gradle\caches\transforms-1\files-1.1\UnityChannel.aar\2f7cebd9fb0e59342ebabb30f5d124f0\jars\libs\MIO_SDK_UNITY_1.3.9_10156.jar"
+        jumboMode="false"
+        min-sdk-version="23"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3593d1118da4eb57d47c56924e5cd26aa0945bf9">
+        <dex dex="C:\Users\solita\Desktop\Examen VJ\CorreCorre\Temp\gradleOut\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>

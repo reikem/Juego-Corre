@@ -1,0 +1,4 @@
+#Wed Nov 21 07:35:22 CLST 2018
+base.0=C\:\\Users\\solita\\Desktop\\Examen VJ\\CorreCorre\\Temp\\gradleOut\\build\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
